@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Ahmed Alhurtumi]!
+# 👋 Hey there, I'm Ahmed Alhurtumi!
 
 🎓 **Computer Science Major**  
 🌩️ **Cloud Enthusiast | 🤖 ML Explorer | 📊 Data Curious**  
